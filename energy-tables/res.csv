@@ -1,0 +1,24 @@
+source,state,total_capacity
+Bio Bagasse Cogen,Andhra Pradesh,378.1
+Bio Bagasse Cogen,Telangana,158.1
+Bio Other Cogen,Andhra Pradesh,105.57
+Bio Other Cogen,Telangana,2.0
+Bio Waste,Andhra Pradesh,53.16
+Bio Waste,Telangana,45.8
+Bio Waster Offgrid,Andhra Pradesh,29.21
+Bio Waster Offgrid,Telangana,14.47
+Hydro,Andhra Pradesh,1610.0
+Hydro,Telangana,2405.6
+Natural Gas,Andhra Pradesh,4898.544
+Small Hydro,Andhra Pradesh,162.11
+Small Hydro,Telangana,90.87
+Solar Ground Based,Andhra Pradesh,4271.59
+Solar Ground Based,Telangana,4360.49
+Solar Offgrid,Andhra Pradesh,88.34
+Solar Offgrid,Telangana,8.71
+Solar Rooftop,Andhra Pradesh,165.33
+Solar Rooftop,Telangana,287.98
+Thermal,Andhra Pradesh,11626.8
+Thermal,Telangana,7842.5
+Wind,Andhra Pradesh,4096.65
+Wind,Telangana,128.1

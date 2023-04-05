@@ -1,0 +1,67 @@
+state,source,cagr
+Andhra Pradesh,Hydro,0.6437518295172258
+Andhra Pradesh,Natural Gas,0.643751829517226
+Andhra Pradesh,Solar Ground Based,0.4131205949185235
+Andhra Pradesh,Thermal,0.6437518295172258
+Andhra Pradesh,Wind,0.6153942662021781
+Arunachal Pradesh,Hydro,0.6437518295172258
+Bihar,Thermal,0.6401485126396462
+Chhatisgarh,Thermal,0.6437518295172258
+Delhi,Natural Gas,0.6437518295172258
+Gujarat,Hydro,0.6437518295172258
+Gujarat,Natural Gas,0.643751829517226
+Gujarat,Solar Ground Based,0.39151409402893833
+Gujarat,Solar Rooftop,0.4278948175266193
+Gujarat,Thermal,0.6466020479807804
+Gujarat,Wind,0.5999835514280161
+Haryana,Thermal,0.6469773064362192
+Himachal Pradesh,Hydro,0.6426452186816631
+Jammu & Kashmir,Hydro,0.6437518295172258
+Jharkhand,Thermal,0.6620959082647468
+Karnataka,Bio Bagasse Cogen,0.5848931924611136
+Karnataka,Hydro,0.6437518295172258
+Karnataka,Small Hydro,0.6153942662021781
+Karnataka,Solar Ground Based,0.4032227543810052
+Karnataka,Thermal,0.6437518295172258
+Karnataka,Wind,0.610265602809162
+Kerala,Hydro,0.6430767210281627
+Madhya Pradesh,Hydro,0.6437518295172258
+Madhya Pradesh,Solar Ground Based,0.41421356237309515
+Madhya Pradesh,Thermal,0.6437518295172258
+Madhya Pradesh,Wind,0.5876594739755834
+Maharashtra,Bio Bagasse Cogen,0.5848931924611136
+Maharashtra,Hydro,0.6437518295172258
+Maharashtra,Natural Gas,0.6437518295172258
+Maharashtra,Nuclear,0.6437518295172258
+Maharashtra,Solar Ground Based,0.4138753713066403
+Maharashtra,Solar Rooftop,0.39990282706860913
+Maharashtra,Thermal,0.6592361455242148
+Maharashtra,Wind,0.6153942662021781
+Odisha,Hydro,0.6435954009048075
+Odisha,Thermal,0.6526153770450678
+Punjab,Hydro,0.6437518295172258
+Punjab,Thermal,0.6437518295172258
+Rajasthan,Natural Gas,0.6438482419620661
+Rajasthan,Nuclear,0.6437518295172258
+Rajasthan,Solar Ground Based,0.39629479524242184
+Rajasthan,Solar Hybrid,0.9360910063976413
+Rajasthan,Thermal,0.6437518295172258
+Rajasthan,Wind,0.6020219431015805
+Sikkim,Hydro,0.6437518295172258
+Tamil Nadu,Hydro,0.643751829517226
+Tamil Nadu,Natural Gas,0.6437518295172258
+Tamil Nadu,Nuclear,0.6437518295172258
+Tamil Nadu,Solar Ground Based,0.40041076559387223
+Tamil Nadu,Thermal,0.6437518295172258
+Tamil Nadu,Wind,0.612621659272631
+Telangana,Hydro,0.6437518295172258
+Telangana,Solar Ground Based,0.41421356237309515
+Telangana,Thermal,0.6437518295172258
+Tripura,Natural Gas,0.6631502838808065
+Uttar Pradesh,Bio Bagasse Cogen,0.5848931924611136
+Uttar Pradesh,Natural Gas,0.6437518295172258
+Uttar Pradesh,Solar Ground Based,0.41421356237309515
+Uttar Pradesh,Thermal,0.644810440899307
+Uttarakhand,Hydro,0.640430546448622
+West Bengal,Hydro,0.6437518295172258
+West Bengal,Thermal,0.6601704702843232

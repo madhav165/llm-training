@@ -1,0 +1,319 @@
+state,source,cagr
+Andaman & Nicobar,Small Hydro,0.6153942662021781
+Andaman & Nicobar,Solar Ground,0.38181796773348875
+Andaman & Nicobar,Solar Ground Based,0.41421356237309515
+Andaman & Nicobar,Solar Offgrid,0.9129311827723889
+Andaman & Nicobar,Solar Rooftop,0.5848931924611136
+Andaman & Nicobar,Thermal,0.49450869316745294
+Andhra Pradesh,Bio Bagasse Cogen,0.5849351075461309
+Andhra Pradesh,Bio Other Cogen,0.5848931924611134
+Andhra Pradesh,Bio Waste,0.5758464072588341
+Andhra Pradesh,Bio Waster Offgrid,1.1544346900318838
+Andhra Pradesh,Hydro,0.6437518295172258
+Andhra Pradesh,Natural Gas,0.643751829517226
+Andhra Pradesh,Small Hydro,0.6153942662021781
+Andhra Pradesh,Solar Ground,0.14937385633289368
+Andhra Pradesh,Solar Ground Based,0.4131205949185235
+Andhra Pradesh,Solar Offgrid,0.9129311827723892
+Andhra Pradesh,Solar Rooftop,0.5048445258875325
+Andhra Pradesh,Thermal,0.6437518295172258
+Andhra Pradesh,Wind,0.6153942662021781
+Arunachal Pradesh,Hydro,0.6437518295172258
+Arunachal Pradesh,Small Hydro,0.614062652618045
+Arunachal Pradesh,Solar Ground,0.18920711500272103
+Arunachal Pradesh,Solar Ground Based,0.41421356237309515
+Arunachal Pradesh,Solar Offgrid,0.8783403850913287
+Arunachal Pradesh,Solar Rooftop,0.5848931924611136
+Assam,Bio Other Cogen,0.7782794100389228
+Assam,Hydro,0.6437518295172258
+Assam,Natural Gas,0.6622006368005195
+Assam,Small Hydro,0.6153942662021781
+Assam,Solar Ground,0.4484754730216933
+Assam,Solar Ground Based,0.41421356237309515
+Assam,Solar Offgrid,0.9124485824232416
+Assam,Solar Rooftop,0.5617909875185818
+Assam,Thermal,0.6437518295172258
+Bihar,Bio Bagasse Cogen,0.5855969641384411
+Bihar,Bio Other Cogen,0.5848931924611136
+Bihar,Bio Waster Offgrid,1.1190371439822067
+Bihar,Small Hydro,0.6153942662021781
+Bihar,Solar Ground,0.18920711500272103
+Bihar,Solar Ground Based,0.41421356237309515
+Bihar,Solar Offgrid,0.9107455615327413
+Bihar,Solar Rooftop,0.5139013020986956
+Bihar,Thermal,0.6401485126396462
+Chandigarh,Solar Ground,0.18920711500272103
+Chandigarh,Solar Ground Based,0.41421356237309515
+Chandigarh,Solar Offgrid,0.9129311827723892
+Chandigarh,Solar Rooftop,0.4950526756791378
+Chhatisgarh,Bio Bagasse Cogen,0.5848931924611136
+Chhatisgarh,Bio Other Cogen,0.5848931924611136
+Chhatisgarh,Bio Waster Offgrid,1.1544346900318838
+Chhatisgarh,Hydro,0.6437518295172258
+Chhatisgarh,Small Hydro,0.6153942662021781
+Chhatisgarh,Solar Ground,0.10543221263393043
+Chhatisgarh,Solar Ground Based,0.3135760645539265
+Chhatisgarh,Solar Offgrid,0.709250492061154
+Chhatisgarh,Solar Rooftop,0.4221406436048998
+Chhatisgarh,Thermal,0.6437518295172258
+Dadar & Nagar Haveli,Solar Ground,0.18920711500272103
+Dadar & Nagar Haveli,Solar Ground Based,0.41421356237309515
+Dadar & Nagar Haveli,Solar Rooftop,0.5848931924611134
+Daman & Diu,Solar Ground,0.18920711500272103
+Daman & Diu,Solar Ground Based,0.41421356237309515
+Daman & Diu,Solar Rooftop,0.5482755974859561
+Delhi,Bio Waste,0.49437299039709104
+Delhi,Natural Gas,0.6437518295172258
+Delhi,Solar Ground,0.18920711500272103
+Delhi,Solar Ground Based,0.41421356237309515
+Delhi,Solar Offgrid,0.9129311827723889
+Delhi,Solar Rooftop,0.5324787287968218
+Delhi,Thermal,0.0
+Goa,Bio Waste,0.7782794100389228
+Goa,Natural Gas,0.6437518295172258
+Goa,Small Hydro,0.6153942662021781
+Goa,Solar Ground,0.18920711500272103
+Goa,Solar Ground Based,0.41421356237309515
+Goa,Solar Offgrid,0.9129311827723889
+Goa,Solar Rooftop,0.42949723701666787
+Gujarat,Bio Bagasse Cogen,0.5848931924611134
+Gujarat,Bio Other Cogen,0.5848931924611136
+Gujarat,Bio Waste,1.1544346900318838
+Gujarat,Bio Waster Offgrid,1.1201877331524517
+Gujarat,Hydro,0.6437518295172258
+Gujarat,Natural Gas,0.643751829517226
+Gujarat,Nuclear,0.6437518295172258
+Gujarat,Small Hydro,0.612426256598384
+Gujarat,Solar Ground,0.184738980551598
+Gujarat,Solar Ground Based,0.39151409402893833
+Gujarat,Solar Offgrid,0.7909926710352648
+Gujarat,Solar Rooftop,0.4278948175266193
+Gujarat,Thermal,0.6466020479807804
+Gujarat,Wind,0.5999835514280161
+Haryana,Bio Bagasse Cogen,0.5721272890672962
+Haryana,Bio Other Cogen,0.5848931924611136
+Haryana,Bio Waste,0.8935907234677669
+Haryana,Bio Waster Offgrid,1.089479287149162
+Haryana,Natural Gas,0.6437518295172258
+Haryana,Small Hydro,0.6153942662021781
+Haryana,Solar Ground,0.09460519926335631
+Haryana,Solar Ground Based,0.41421356237309515
+Haryana,Solar Offgrid,0.7838414411113344
+Haryana,Solar Rooftop,0.47321115238219913
+Haryana,Thermal,0.6469773064362192
+Himachal Pradesh,Bio Other Cogen,0.5848931924611136
+Himachal Pradesh,Bio Waster Offgrid,1.1544346900318838
+Himachal Pradesh,Hydro,0.6426452186816631
+Himachal Pradesh,Small Hydro,0.6107701139636894
+Himachal Pradesh,Solar Ground,0.13380977792866067
+Himachal Pradesh,Solar Ground Based,0.41421356237309515
+Himachal Pradesh,Solar Offgrid,0.8313536229849425
+Himachal Pradesh,Solar Rooftop,0.5514167243354857
+Jammu & Kashmir,Hydro,0.6437518295172258
+Jammu & Kashmir,Natural Gas,0.6437518295172258
+Jammu & Kashmir,Small Hydro,0.6577328612704034
+Jammu & Kashmir,Solar Ground,0.6159748027208767
+Jammu & Kashmir,Solar Ground Based,0.41421356237309515
+Jammu & Kashmir,Solar Offgrid,0.888376338298543
+Jammu & Kashmir,Solar Rooftop,0.47160852236928874
+Jharkhand,Bio Other Cogen,0.5848931924611134
+Jharkhand,Hydro,0.6437518295172258
+Jharkhand,Small Hydro,0.6153942662021781
+Jharkhand,Solar Ground,0.18920711500272103
+Jharkhand,Solar Ground Based,0.41421356237309515
+Jharkhand,Solar Offgrid,0.7867318936573595
+Jharkhand,Solar Rooftop,0.5303665905742168
+Jharkhand,Thermal,0.6620959082647468
+Karnataka,Bio Bagasse Cogen,0.5848931924611136
+Karnataka,Bio Other Cogen,0.5848931924611134
+Karnataka,Bio Waste,0.5848931924611136
+Karnataka,Bio Waster Offgrid,1.1544346900318834
+Karnataka,Hydro,0.6437518295172258
+Karnataka,Nuclear,0.6437518295172258
+Karnataka,Small Hydro,0.6153942662021781
+Karnataka,Solar Ground,0.18071166268926442
+Karnataka,Solar Ground Based,0.4032227543810052
+Karnataka,Solar Offgrid,0.9129311827723889
+Karnataka,Solar Rooftop,0.4433691628969405
+Karnataka,Thermal,0.6437518295172258
+Karnataka,Wind,0.610265602809162
+Kerala,Bio Other Cogen,0.5848931924611136
+Kerala,Bio Waster Offgrid,1.1544346900318838
+Kerala,Hydro,0.6430767210281627
+Kerala,Natural Gas,0.6437518295172258
+Kerala,Small Hydro,0.6046736023761436
+Kerala,Solar Ground,0.12905043217661283
+Kerala,Solar Ground Based,0.41421356237309515
+Kerala,Solar Offgrid,0.9088535477252031
+Kerala,Solar Rooftop,0.4156235578651528
+Kerala,Thermal,0.6437518295172258
+Kerala,Wind,0.6153942662021781
+Ladakh,Bio Waster Offgrid,0.0
+Ladakh,Hydro,0.6437518295172258
+Ladakh,Small Hydro,1.2067465993048696
+Ladakh,Solar Ground,0.0
+Ladakh,Solar Ground Based,0.41421356237309515
+Ladakh,Solar Rooftop,0.9129311827723892
+Lakshadweep,Thermal,0.0
+Lakshwadeep,Solar Ground,0.18920711500272103
+Lakshwadeep,Solar Ground Based,0.41421356237309515
+Lakshwadeep,Solar Offgrid,0.9129311827723889
+Madhya Pradesh,Bio Bagasse Cogen,0.5857489668220068
+Madhya Pradesh,Bio Other Cogen,0.5848931924611134
+Madhya Pradesh,Bio Waste,0.5848931924611136
+Madhya Pradesh,Bio Waster Offgrid,1.074935079661095
+Madhya Pradesh,Hydro,0.6437518295172258
+Madhya Pradesh,Small Hydro,0.5605070013038556
+Madhya Pradesh,Solar Ground,0.1683807596845721
+Madhya Pradesh,Solar Ground Based,0.41421356237309515
+Madhya Pradesh,Solar Offgrid,0.8854438107763221
+Madhya Pradesh,Solar Rooftop,0.43630170290829007
+Madhya Pradesh,Thermal,0.6437518295172258
+Madhya Pradesh,Wind,0.5876594739755834
+Maharashtra,Bio Bagasse Cogen,0.5848931924611136
+Maharashtra,Bio Other Cogen,0.5848931924611136
+Maharashtra,Bio Waste,0.5848931924611136
+Maharashtra,Bio Waster Offgrid,1.0715915107119391
+Maharashtra,Hydro,0.6437518295172258
+Maharashtra,Natural Gas,0.6437518295172258
+Maharashtra,Nuclear,0.6437518295172258
+Maharashtra,Small Hydro,0.6153942662021781
+Maharashtra,Solar Ground,0.1615266541571807
+Maharashtra,Solar Ground Based,0.4138753713066403
+Maharashtra,Solar Offgrid,0.48331600459322654
+Maharashtra,Solar Rooftop,0.39990282706860913
+Maharashtra,Thermal,0.6592361455242148
+Maharashtra,Wind,0.6153942662021781
+Manipur,Hydro,0.6437518295172258
+Manipur,Small Hydro,0.6153942662021781
+Manipur,Solar Offgrid,0.9110829389329267
+Manipur,Solar Rooftop,0.5624360738637686
+Manipur,Thermal,0.6437518295172258
+Meghalaya,Bio Other Cogen,0.5848931924611136
+Meghalaya,Hydro,0.6437518295172258
+Meghalaya,Small Hydro,0.6153942662021781
+Meghalaya,Solar Offgrid,0.9129311827723892
+Meghalaya,Solar Rooftop,0.4757731615945522
+Mizoram,Hydro,0.6437518295172258
+Mizoram,Small Hydro,0.5570736785269927
+Mizoram,Solar Ground,0.18920711500272103
+Mizoram,Solar Ground Based,0.41421356237309515
+Mizoram,Solar Offgrid,0.9129311827723892
+Mizoram,Solar Rooftop,0.556241807475848
+Nagaland,Hydro,0.6437518295172258
+Nagaland,Small Hydro,0.6116675044141919
+Nagaland,Solar Offgrid,0.9129311827723889
+Nagaland,Solar Rooftop,0.5848931924611136
+Odisha,Bio Bagasse Cogen,0.5848931924611134
+Odisha,Bio Other Cogen,0.5848931924611134
+Odisha,Bio Waster Offgrid,0.0
+Odisha,Hydro,0.6435954009048075
+Odisha,Small Hydro,0.6061447027328741
+Odisha,Solar Ground,0.1800834898808239
+Odisha,Solar Ground Based,0.41421356237309515
+Odisha,Solar Offgrid,0.8933580494182647
+Odisha,Solar Rooftop,0.5143495381050165
+Odisha,Thermal,0.6526153770450678
+Others,Solar Offgrid,0.9129311827723889
+Others,Wind,0.6153942662021781
+Pondicherry,Natural Gas,0.6437518295172258
+Pondicherry,Solar Ground,1.0205155046766232
+Pondicherry,Solar Ground Based,0.41421356237309515
+Pondicherry,Solar Offgrid,0.9129311827723889
+Pondicherry,Solar Rooftop,0.44750029529434876
+Punjab,Bio Bagasse Cogen,0.5848931924611136
+Punjab,Bio Other Cogen,0.5848931924611136
+Punjab,Bio Waste,0.5848931924611136
+Punjab,Bio Waster Offgrid,0.8439791118453379
+Punjab,Hydro,0.6437518295172258
+Punjab,Small Hydro,0.6153942662021779
+Punjab,Solar Ground,0.18920711500272103
+Punjab,Solar Ground Based,0.41286544251086377
+Punjab,Solar Offgrid,0.7737415317065224
+Punjab,Solar Rooftop,0.4554542694195429
+Punjab,Thermal,0.6437518295172258
+Rajasthan,Bio Bagasse Cogen,0.5849596394340313
+Rajasthan,Bio Other Cogen,0.5848931924611136
+Rajasthan,Bio Waster Offgrid,1.1544346900318834
+Rajasthan,Hydro,0.6437518295172258
+Rajasthan,Natural Gas,0.6438482419620661
+Rajasthan,Nuclear,0.6437518295172258
+Rajasthan,Small Hydro,0.6153942662021781
+Rajasthan,Solar Ground,0.18308158541562491
+Rajasthan,Solar Ground Based,0.39629479524242184
+Rajasthan,Solar Hybrid,0.9360910063976413
+Rajasthan,Solar Offgrid,0.7444543131101204
+Rajasthan,Solar Rooftop,0.4550927328388765
+Rajasthan,Thermal,0.6437518295172258
+Rajasthan,Wind,0.6020219431015805
+Sikkim,Bio Waster Offgrid,0.0
+Sikkim,Hydro,0.6437518295172258
+Sikkim,Small Hydro,0.608134498395503
+Sikkim,Solar Offgrid,0.9100803124037635
+Sikkim,Solar Rooftop,1.2707610108806424
+Tamil Nadu,Bio Bagasse Cogen,0.5848931924611136
+Tamil Nadu,Bio Other Cogen,0.5848931924611136
+Tamil Nadu,Bio Waste,0.5848931924611134
+Tamil Nadu,Bio Waster Offgrid,1.1391436517125069
+Tamil Nadu,Hydro,0.643751829517226
+Tamil Nadu,Natural Gas,0.6437518295172258
+Tamil Nadu,Nuclear,0.6437518295172258
+Tamil Nadu,Small Hydro,0.6153942662021781
+Tamil Nadu,Solar Ground,0.1445605886911816
+Tamil Nadu,Solar Ground Based,0.40041076559387223
+Tamil Nadu,Solar Offgrid,0.8604441575792499
+Tamil Nadu,Solar Rooftop,0.5107453007783966
+Tamil Nadu,Thermal,0.6437518295172258
+Tamil Nadu,Wind,0.612621659272631
+Telangana,Bio Bagasse Cogen,0.5848931924611134
+Telangana,Bio Other Cogen,0.5848931924611136
+Telangana,Bio Waste,0.5848931924611136
+Telangana,Bio Waster Offgrid,1.1227027685229451
+Telangana,Hydro,0.6437518295172258
+Telangana,Small Hydro,0.6153942662021781
+Telangana,Solar Ground,0.14238770088509378
+Telangana,Solar Ground Based,0.41421356237309515
+Telangana,Solar Offgrid,0.9119894705184126
+Telangana,Solar Rooftop,0.4357159927277132
+Telangana,Thermal,0.6437518295172258
+Telangana,Wind,0.6153942662021781
+Tripura,Bio Waster Offgrid,0.0
+Tripura,Natural Gas,0.6631502838808065
+Tripura,Small Hydro,0.6153942662021781
+Tripura,Solar Ground,0.18920711500272103
+Tripura,Solar Ground Based,0.41421356237309515
+Tripura,Solar Offgrid,0.7842406840821439
+Tripura,Solar Rooftop,0.559560182459854
+Uttar Pradesh,Bio Bagasse Cogen,0.5848931924611136
+Uttar Pradesh,Bio Other Cogen,0.5848931924611136
+Uttar Pradesh,Bio Waster Offgrid,1.114836760111634
+Uttar Pradesh,Hydro,0.6437518295172258
+Uttar Pradesh,Natural Gas,0.6437518295172258
+Uttar Pradesh,Nuclear,0.6437518295172258
+Uttar Pradesh,Small Hydro,0.6153942662021781
+Uttar Pradesh,Solar Ground,0.1880667705430501
+Uttar Pradesh,Solar Ground Based,0.41421356237309515
+Uttar Pradesh,Solar Offgrid,0.8152143310758813
+Uttar Pradesh,Solar Rooftop,0.5510291538629379
+Uttar Pradesh,Thermal,0.644810440899307
+Uttarakhand,Bio Bagasse Cogen,0.5855029679712316
+Uttarakhand,Bio Other Cogen,0.5848931924611136
+Uttarakhand,Bio Waster Offgrid,1.1544346900318838
+Uttarakhand,Hydro,0.640430546448622
+Uttarakhand,Natural Gas,0.6437518295172258
+Uttarakhand,Small Hydro,0.6141844431407644
+Uttarakhand,Solar Ground,0.13384671397808168
+Uttarakhand,Solar Ground Based,0.41421356237309515
+Uttarakhand,Solar Offgrid,0.8601586203096507
+Uttarakhand,Solar Rooftop,0.4757731615945522
+West Bengal,Bio Bagasse Cogen,0.5848931924611136
+West Bengal,Bio Other Cogen,0.5253953077399909
+West Bengal,Bio Waster Offgrid,0.973413579238164
+West Bengal,Hydro,0.6437518295172258
+West Bengal,Natural Gas,0.6437518295172258
+West Bengal,Small Hydro,0.6153942662021781
+West Bengal,Solar Ground,0.19421441358936242
+West Bengal,Solar Ground Based,0.41421356237309515
+West Bengal,Solar Offgrid,0.9047156979441113
+West Bengal,Solar Rooftop,0.5475567638441268
+West Bengal,Thermal,0.6601704702843232
